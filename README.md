@@ -91,6 +91,6 @@ model training r2:986.6954264929329
 
 model testing r2:18627281456683.17
 
-in here we can say that the data is slighltly over fit.
+in here we can say that the data is slighltly over fit. i suggest tuning the model to get better results.
 
 
