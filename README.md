@@ -51,16 +51,25 @@ It uses a consistent scale, which is used for all datasets, and thus may be used
 Disadvantages:
 It is difficult to interpret and very difficult to explain to non-technical audiences.
 based on our data 
+
 model training  r2:0.6710314456901736
+
 model testing r2:-1.2576240333690213e+20
+
 # mean sqare error
+
 To calculate the MSE, you take the difference between your model's predictions and the ground truth, square it, and average it out across the whole dataset.
+
 model training r2:973567.8646620708
+
 model testing r2:3.469756144664928e+26
 # evaluate the performance based on rmse
 Root mean square error or root mean square deviation is one of the most commonly used measures for evaluating the quality of predictions. It shows how far predictions fall from measured true values using Euclidean distance. it is the square root of MSE.
+
 model training r2:986.6954264929329
+
 model testing r2:18627281456683.17
+
 # using Regression tree model to predict sales
 here are the scores  for the model
 
