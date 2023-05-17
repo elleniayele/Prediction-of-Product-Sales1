@@ -42,6 +42,8 @@ Though Tier 2 Outlet Location Types contributed a lessor amount than either Tier
  that the Seafood Item has the highest Item Sales.
 # Model Performance based on linear regression model
 
+here are the scores for this model
+
 # Coefficient of Determination (r2)
 The Coefficient of Determination is the proportion (%) of the variation in the dependent variable, or target variable, that a model is able to predict, or explain, from the independent variables, or features. It is a measure of the goodness of fit of a regression model.  calculates how much better our model's predictions are vs if the mean was used instead. It should have a value between 0 and 1, however a poor model may have a negative.
 Advantages:
@@ -60,20 +62,25 @@ Root mean square error or root mean square deviation is one of the most commonly
 model training r2:986.6954264929329
 model testing r2:18627281456683.17
 # using Regression tree model to predict sales
+here are the scores  for the model
+
 Compare the performance of your model based on r^2
 
 model training r2:0.6710314456901736
+
 model testing r2:-1.2576240333690213e+20
 
 Compare the performance of your model based on mse
 
 model training r2:973567.8646620708
+
 model testing r2:3.469756144664928e+26
 
 Compare the performance of your model based on rmse
 
 model training r2:986.6954264929329
-model testing r2:18627281456683.17
 
+model testing r2:18627281456683.17
+in here we can say that the data is slighltly over fit.
 
 
