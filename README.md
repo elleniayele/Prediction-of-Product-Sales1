@@ -73,23 +73,24 @@ model testing r2:18627281456683.17
 # using Regression tree model to predict sales
 here are the scores  for the model
 
-Compare the performance of your model based on r^2
+# Compare the performance of your model based on r^2
 
 model training r2:0.6710314456901736
 
 model testing r2:-1.2576240333690213e+20
 
-Compare the performance of your model based on mse
+# Compare the performance of your model based on mse
 
 model training r2:973567.8646620708
 
 model testing r2:3.469756144664928e+26
 
-Compare the performance of your model based on rmse
+# Compare the performance of your model based on rmse
 
 model training r2:986.6954264929329
 
 model testing r2:18627281456683.17
+
 in here we can say that the data is slighltly over fit.
 
 
