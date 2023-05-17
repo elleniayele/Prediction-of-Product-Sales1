@@ -32,4 +32,12 @@ Medium Size outlets contributed the most, and Small and Unknown Sized Outlets co
 
 Though High Size outlets contributed a lessor amount than either Small or Unknown Size to Total Company Sales, their Average Outlet Sales were higher.
 # Outlet Location Types
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/a1aaaab3-38ce-4112-9566-79a42693181c)
+Tier 3 Outlet Location Types contributed the most to Total Company Sales.
+Though Tier 2 Outlet Location Types contributed a lessor amount than either Tier 3 to Total Company Sales, their Average Outlet Sales were higher.
+# Items
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/d2449a70-0d8e-4cb6-ba76-3bb33e595de1)
+
+
+
 
