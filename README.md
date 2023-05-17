@@ -38,6 +38,42 @@ Though Tier 2 Outlet Location Types contributed a lessor amount than either Tier
 # Items
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/d2449a70-0d8e-4cb6-ba76-3bb33e595de1)
 
+ It is of interest to note
+ that the Seafood Item has the highest Item Sales.
+# Model Performance based on linear regression model
+
+# Coefficient of Determination (r2)
+The Coefficient of Determination is the proportion (%) of the variation in the dependent variable, or target variable, that a model is able to predict, or explain, from the independent variables, or features. It is a measure of the goodness of fit of a regression model.  calculates how much better our model's predictions are vs if the mean was used instead. It should have a value between 0 and 1, however a poor model may have a negative.
+Advantages:
+It uses a consistent scale, which is used for all datasets, and thus may be used for comparison.
+Disadvantages:
+It is difficult to interpret and very difficult to explain to non-technical audiences.
+based on our data 
+model training  r2:0.6710314456901736
+model testing r2:-1.2576240333690213e+20
+# mean sqare error
+To calculate the MSE, you take the difference between your model's predictions and the ground truth, square it, and average it out across the whole dataset.
+model training r2:973567.8646620708
+model testing r2:3.469756144664928e+26
+# evaluate the performance based on rmse
+Root mean square error or root mean square deviation is one of the most commonly used measures for evaluating the quality of predictions. It shows how far predictions fall from measured true values using Euclidean distance. it is the square root of MSE.
+model training r2:986.6954264929329
+model testing r2:18627281456683.17
+# using Regression tree model to predict sales
+Compare the performance of your model based on r^2
+
+model training r2:0.6710314456901736
+model testing r2:-1.2576240333690213e+20
+
+Compare the performance of your model based on mse
+
+model training r2:973567.8646620708
+model testing r2:3.469756144664928e+26
+
+Compare the performance of your model based on rmse
+
+model training r2:986.6954264929329
+model testing r2:18627281456683.17
 
 
 
