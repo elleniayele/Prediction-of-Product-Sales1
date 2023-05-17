@@ -20,3 +20,16 @@ Outlets OUT010 and OUT019 significantly underperformed the other outlets, having
 
 # Outlet Types
 
+Supermarket Type1 outlets may have contributed the most to Total Company Sales, however they do not have the highest Average Outlet Sales.
+
+Supermarket Type3 has only only one outlet, and it has the highest Outlet Sales , and they have the least Outlet Sales.
+
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/eea9ea58-f9ad-47e2-ada2-56f51f3ea30a)
+# Outlet Size
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/685d5f66-26dd-4d4f-b9a3-c0461fba2c48)
+Outlet Size does have some correlation with the Outlet Type's Average Outlet Sales. 
+Medium Size outlets contributed the most, and Small and Unknown Sized Outlets contributed the least to Total Company Sales.
+
+Though High Size outlets contributed a lessor amount than either Small or Unknown Size to Total Company Sales, their Average Outlet Sales were higher.
+# Outlet Location Types
+
