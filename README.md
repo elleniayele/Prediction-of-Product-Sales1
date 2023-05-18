@@ -107,7 +107,9 @@ model testing MAE:1052.2769041295167
 
 In here we can say that the data is overfit. comparing the linear regression model with regression tree model, linear regression model did better. The 
 rmse, mae and r2 score for linear regression model for testing data are:- r2:0.5673120131342877,
+
                                                                         - MAE:803.3697084936649,
+                                                                        
                                                                         - RMSE:1092.6007177689773
               
 the data is well balanced for training and testing data and the regression tree model is not balanced, it is overfit. so i choose linear regression model.
