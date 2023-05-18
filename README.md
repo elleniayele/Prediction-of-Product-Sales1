@@ -52,45 +52,68 @@ Disadvantages:
 It is difficult to interpret and very difficult to explain to non-technical audiences.
 based on our data 
 
-model training  r2:0.6710314456901736
+model training r2:0.5614117741571462
 
-model testing r2:-1.2576240333690213e+20
+model testing r2:0.5673120131342877
 
 # mean sqare error
 
 To calculate the MSE, you take the difference between your model's predictions and the ground truth, square it, and average it out across the whole dataset.
 
-model training r2:973567.8646620708
+model training MSE:1297982.4269088164
 
-model testing r2:3.469756144664928e+26
+model testing MSE:1193776.3284692846
+
 # evaluate the performance based on rmse
 Root mean square error or root mean square deviation is one of the most commonly used measures for evaluating the quality of predictions. It shows how far predictions fall from measured true values using Euclidean distance. it is the square root of MSE.
 
-model training r2:986.6954264929329
+model training RMSE:1139.2903172189328
 
-model testing r2:18627281456683.17
+model testing RMSE:1092.6007177689773
+
+# evaluate the performance based on mae(mean absolute error)
+Mean Absolute Error calculates the average difference between the calculated values and actual values.
+model training MAE:847.2653346057572
+model testing MAE:803.3697084936649
 
 # using Regression tree model to predict sales
+
 here are the scores  for the model
 
 # Compare the performance of your model based on r^2
 
-model training r2:0.6710314456901736
+model training r2:0.999942098755146
 
-model testing r2:-1.2576240333690213e+20
+model testing r2:0.13974891304556325
 
 # Compare the performance of your model based on mse
 
-model training r2:973567.8646620708
+model training MSE:171.35616938263135
 
-model testing r2:3.469756144664928e+26
+model testing MSE:2373413.2107182783
 
 # Compare the performance of your model based on rmse
 
-model training r2:986.6954264929329
+model training RMSE:13.090308223362479
 
-model testing r2:18627281456683.17
+model testing RMSE:1540.5885922978523
 
-in here we can say that the data is slighltly over fit. i suggest tuning the model to get better results.
+# Compare the performance of your model based on mae
+
+model training MAE:0.2315509073842304
+
+model testing MAE:1052.2769041295167
+
+
+In here we can say that the data is overfit. comparing the linear regression model with regression tree model, linear regression model did better. The 
+rmse, mae and r2 score for linear regression model for testing data are:- r2:0.5673120131342877,
+                                                                        - MAE:803.3697084936649,
+                                                                        - RMSE:1092.6007177689773
+              
+the data is well balanced for training and testing data and the regression tree model is not balanced, it is overfit. so i choose linear regression model.
+                                                                        
+
+
+
 
 
