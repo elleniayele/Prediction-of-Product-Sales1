@@ -111,6 +111,8 @@ rmse, mae and r2 score for linear regression model for testing data are:
                                                                         - r2:0.5673120131342877,
 
                                                                         - MAE:803.3697084936649,
+
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/download%20(1).png)
                                                                         
                                                                         - RMSE:1092.6007177689773
               
