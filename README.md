@@ -115,7 +115,7 @@ rmse, mae and r2 score for linear regression model for testing data are:
                                                                         - RMSE:1092.6007177689773
               
 the data is well balanced for training and testing data and the regression tree model is not balanced, it is overfit. so i choose linear regression model.
-                                                                        
+   # linear regression                                                                     
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/download%20(1).png)
 
  outlet_identifier_out027:
@@ -126,7 +126,8 @@ the outlet type supermarket type 3 increased the predicted sale by 968.517 dolla
 
 outlet_type_supermarket type 3 :
 the outlet_type_supermarket type 3 increased the predicted sale by 931.342 dollars. 
-
+# random forest regression 
+the top five important features are 
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/importances.png)
 
-the 
+
