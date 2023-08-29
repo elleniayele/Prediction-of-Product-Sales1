@@ -125,4 +125,8 @@ outlet_type_supermarket type 3 :
 the outlet type supermarket type 3 increased the predicted sale by 968.517 dollars.
 
 outlet_type_supermarket type 3 :
-the outlet_type_supermarket type 3 increased the predicted sale by 931.342 dollars.
+the outlet_type_supermarket type 3 increased the predicted sale by 931.342 dollars. 
+
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/importances.png)
+
+the 
