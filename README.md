@@ -116,8 +116,4 @@ rmse, mae and r2 score for linear regression model for testing data are:
               
 the data is well balanced for training and testing data and the regression tree model is not balanced, it is overfit. so i choose linear regression model.
                                                                         
-
-
-
-
-
+![image](download (1).png)
