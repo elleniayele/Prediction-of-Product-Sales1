@@ -118,7 +118,7 @@ the data is well balanced for training and testing data and the regression tree 
                                                                         
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/download%20(1).png)
 
-outlet_identifier_out027:
+ outlet_identifier_out027:
 outlet_identifier_out027 is the most impactful feature in which increased the predicted sale by 968.517 dollars.
 
 outlet_type_supermarket type 3 :
