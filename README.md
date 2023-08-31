@@ -130,4 +130,23 @@ the outlet_type_supermarket type 3 increased the predicted sale by 931.342 dolla
 the top five important features are 
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/importances.png)
 
+### a summary plot (bar version)
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/f73e0f95-579d-41f5-bb98-2c8d84c27b40)
 
+in the shap bar plot , item_mrp is the top important feature just as plot of important features so is outlet_type_supermarket type1 but in shap plots the most important 3rd feature is outlet_type_3 but in the plot of original feature importances figure the third important is item_weight and then the next important is out_let identifier_out027 where as in the feature important role, it is the last important feature from the 5 most important feature.outlet_type_supermarket type1 ,outlet_type_3  and outlet_identifier_OUT027 show that the higher their values the higher the model is going to predict the sales so they are most important features for predicting sales in shap where as in feature importances plot item_mrp, outlet type supermarket type 1, item weight and the others follow.
+
+### create a summary plot (dot version)
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/b21f76c6-df59-478d-892f-77336f98799c)
+# Interpreting the SHAP values for our model:
+ 
+  #### ITEM_MRP
+    
+  since positive values are on the right, we can see that the greater the number of ITEM_MRP , the more likely the model would predict the sales .we see that at the left, the blue values, for the lower  values of ITEM_MRP, the less likely the model will predict the sales that is towards the left.The lowest the values of the ITEM_MRP the less chance it will pridicting  the sales.so the higher values of the item_mrp the more likely it's going to pridict the sales.
+
+ #### outlet_type_supermartket_type1
+ 
+ since the red value is on the right, the more the values of outlet_type_supermarket_type1, the more likely it is going to predict the sales
+
+ #### outlet_type_supermartket_type3
+
+In here also, the more the values of the ourtlet_type_supermarket_type3, the more chances of predicting the sales.( direct relation)
