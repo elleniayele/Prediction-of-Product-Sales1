@@ -171,7 +171,7 @@ the outlet_type wis postive with value greater than 0 while item_mrp greater tha
 
 # A sharp force plot
 ## ITEM_MRP
-![image](
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/item_mrp%20of%20forceplot.png)
 
 as can be seen in the force plot, the features that helped greatly for the prediction of sales are ITEM_MRP which has 265.2 value, item_weight with values of 10 and outlet_type_supermarket type 1, the other features have lower values so not very important for the prediction of sales.
 
