@@ -156,7 +156,7 @@ all the other columns except for outlet type supermarket type 1 and item_mrp of 
 the outlet_type wis postive with value greater than 0 while item_mrp greater than 141.88. has higher contributions to the prediction of sales when we ploted the importance of features also wanted to see how item_weight has contributed to the prediction of sales.
 # A Lime tabular explanation
 ## ITEM_MRP
-![image].(https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/0de557f46db30ff5fd8a7ddc37f28d7221058218)
+[png].(https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/0de557f46db30ff5fd8a7ddc37f28d7221058218)
 
 As we can see above, this item type has a predicted value of sales which is 5158 dollars of predicted value.
 This item_mrp has negative impacts from features in predicting sales such as outlet_type supermarket(uknown), item_type breads, item_type_fruits, and item_type_others while features that helped it or has postive influences are item_MRP which is greater than 188.22 and outlet type _supermarket type 1 which is greater than 0 also item type seafood has postively contributed to the prediction of sales.
