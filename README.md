@@ -157,6 +157,7 @@ the outlet_type wis postive with value greater than 0 while item_mrp greater tha
 # A Lime tabular explanation
 ## ITEM_MRP
 ![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/mrp.png)https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/mrp.png
+![image].(https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/fce779d2f58b3e4003b6ff2aa35949512396e5cb)
 
 As we can see above, this item type has a predicted value of sales which is 5158 dollars of predicted value.
 This item_mrp has negative impacts from features in predicting sales such as outlet_type supermarket(uknown), item_type breads, item_type_fruits, and item_type_others while features that helped it or has postive influences are item_MRP which is greater than 188.22 and outlet type _supermarket type 1 which is greater than 0 also item type seafood has postively contributed to the prediction of sales.
