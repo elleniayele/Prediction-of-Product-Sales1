@@ -176,6 +176,6 @@ the outlet_type wis postive with value greater than 0 while item_mrp greater tha
 as can be seen in the force plot, the features that helped greatly for the prediction of sales are ITEM_MRP which has 265.2 value, item_weight with values of 10 and outlet_type_supermarket type 1, the other features have lower values so not very important for the prediction of sales.
 
 ## ITEM_WEIGHT
-![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/767d6e4750fa8721f8e06640c57465e888e83a3c)
+![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/item_weight%20of%20force%20plot.png)
 
 outlet_type_supermarket type1 has the greater contribution to prediction of the sales,item_mrp has the second with values of 147.4 and item_weight which has values of 21.25  and item_type_household=1, the other features were not important for predicion of sales.
