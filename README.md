@@ -150,3 +150,31 @@ in the shap bar plot , item_mrp is the top important feature just as plot of imp
  #### outlet_type_supermartket_type3
 
 In here also, the more the values of the ourtlet_type_supermarket_type3, the more chances of predicting the sales.( direct relation)
+# EXPLAINING LIME AND FORCE PLOTS
+i chose item_mrp, and item_weight since item_mrpin here, we can see that item_wight has a value of 3069.86 dollars in predition of sales at this example. 
+all the other columns except for outlet type supermarket type 1 and item_mrp of value 147.41 which have postively influecnced towards maximum item_weight.and hence sales.
+the outlet_type wis postive with value greater than 0 while item_mrp greater than 141.88. has higher contributions to the prediction of sales when we ploted the importance of features also wanted to see how item_weight has contributed to the prediction of sales.
+# A Lime tabular explanation
+## ITEM_MRP
+[mrp.png](https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/mrp.png)https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/mrp.png
+
+As we can see above, this item type has a predicted value of sales which is 5158 dollars of predicted value.
+This item_mrp has negative impacts from features in predicting sales such as outlet_type supermarket(uknown), item_type breads, item_type_fruits, and item_type_others while features that helped it or has postive influences are item_MRP which is greater than 188.22 and outlet type _supermarket type 1 which is greater than 0 also item type seafood has postively contributed to the prediction of sales.
+
+## ITEM_WEIGHT
+[mrp.png].(https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/highweight.png)
+
+in here, we can see that item_wight has a value of 3069.86 dollars in predition of sales at this example. 
+all the other columns except for outlet type supermarket type 1 and item_mrp of value 147.41 which have postively influecnced towards maximum item_weight.and hence sales.
+the outlet_type wis postive with value greater than 0 while item_mrp greater than 141.88.
+
+# A sharp force plot
+## ITEM_MRP
+[mrp.png].(https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/item_mrp%20of%20forceplot.png)
+
+as can be seen in the force plot, the features that helped greatly for the prediction of sales are ITEM_MRP which has 265.2 value, item_weight with values of 10 and outlet_type_supermarket type 1, the other features have lower values so not very important for the prediction of sales.
+
+## ITEM_WEIGHT
+[mrp.png].(https://github.com/elleniayele/Prediction-of-Product-Sales1/blob/main/item_weight%20of%20force%20plot.png)
+
+outlet_type_supermarket type1 has the greater contribution to prediction of the sales,item_mrp has the second with values of 147.4 and item_weight which has values of 21.25  and item_type_household=1, the other features were not important for predicion of sales.
