@@ -162,8 +162,8 @@ As we can see above, this item type has a predicted value of sales which is 5158
 This item_mrp has negative impacts from features in predicting sales such as outlet_type supermarket(uknown), item_type breads, item_type_fruits, and item_type_others while features that helped it or has postive influences are item_MRP which is greater than 188.22 and outlet type _supermarket type 1 which is greater than 0 also item type seafood has postively contributed to the prediction of sales.
 
 ## ITEM_WEIGHT
-![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/0de557f46db30ff5fd8a7ddc37f28d7221058218)
-![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/5ba7fd5d-77fe-4b71-b84e-41f8409910e5)
+#![image](https://github.com/elleniayele/Prediction-of-Product-Sales1/commit/0de557f46db30ff5fd8a7ddc37f28d7221058218)
+![image]([https://github.com/elleniayele/Prediction-of-Product-Sales1/assets/61632568/5ba7fd5d-77fe-4b71-b84e-41f8409910e5](http://localhost:8888/view/mrp.png))
 
 
 in here, we can see that item_wight has a value of 3069.86 dollars in predition of sales at this example. 
